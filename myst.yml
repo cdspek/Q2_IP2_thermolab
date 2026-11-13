@@ -6,8 +6,8 @@ project:
   # description:
   # keywords: []
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Casper van der Spek
+    - name: Pascal Bakker
 
   github: https://cdspek.github.io/Q2_IP2_thermolab/
   plugins:
